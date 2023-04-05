@@ -12,10 +12,8 @@ _C = CN()
 _C.SERVER = CN()
 _C.SERVER.gpus = 1
 
-_C.SERVER.TRAIN_DATA = 'E:\\Data\\Flickr1024_splited\\Train\\160x480_Train_SR'
-_C.SERVER.VAL_DATA = 'E:\\Data\\Flickr1024_splited\\Test\\160x480_Test_SR'
-# _C.SERVER.TRAIN_DATA = 'Your Path'
-# _C.SERVER.VAL_DATA = 'Your Path'
+_C.SERVER.TRAIN_DATA = 'Your Path'
+_C.SERVER.VAL_DATA = 'Your Path'
 _C.SERVER.TEST_DATA = 'images\\in'
 _C.SERVER.OUTPUT = 'output\\job1'  
 
