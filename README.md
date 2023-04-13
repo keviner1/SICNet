@@ -13,7 +13,12 @@ Official PyTorch implementation of our CVPRW2023 paper: Asymmetric Color Transfe
 
 -------------------------------------------------
 **Results**
+
+*normal light*
 ![show](https://github.com/keviner1/imgs/blob/main/SICNet-comp.png?raw=true)
+
+*dark conditions*
+![show](https://github.com/keviner1/imgs/blob/main/SICNet-dark.png?raw=true)
 
 -------------------------------------------------
 **We provide a simple training and testing process as follows:**
