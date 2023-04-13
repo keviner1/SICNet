@@ -9,7 +9,7 @@ Official PyTorch implementation of our CVPRW2023 paper: Asymmetric Color Transfe
 
 *TeacherNet for knowledge distillation*
 
-<img src="https://github.com/keviner1/imgs/blob/main/SICNet-teacher.png?raw=true" width="600px">
+<img src="https://github.com/keviner1/imgs/blob/main/SICNet-teacher.png?raw=true" width="300px">
 
 -------------------------------------------------
 **Results**
