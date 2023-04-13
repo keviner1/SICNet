@@ -1,6 +1,21 @@
 Official PyTorch implementation of our CVPRW2023 paper: Asymmetric Color Transfer with Consistent Modality Learning.
 
 -------------------------------------------------
+**Framework**
+
+*SICNet*
+
+<img src="https://github.com/keviner1/imgs/blob/main/SICNet.png?raw=true" width="600px">
+
+*TeacherNet for knowledge distillation*
+
+<img src="https://github.com/keviner1/imgs/blob/main/SICNet-teacher.png?raw=true" width="600px">
+
+-------------------------------------------------
+**Results**
+![show](https://github.com/keviner1/imgs/blob/main/SICNet-comp.png?raw=true)
+
+-------------------------------------------------
 **We provide a simple training and testing process as follows:**
 
 -------------------------------------------------
@@ -25,10 +40,6 @@ Pretrained models are placed in *ckp*, and test samples are placed in *images\in
 python test.py --config 1 --ckp setup1.pth
 
 Finally, the results can be found in *images\out*.
-
--------------------------------------------------
-**Results**
-![show](https://github.com/keviner1/imgs/blob/main/SICNet-comp.png?raw=true)
 
 
 
