@@ -52,7 +52,7 @@ Finally, the results can be found in *images\out*.
 ```
 @inproceedings{zheng2023sicnet,
   title={Asymmetric Color Transfer with Consistent Modality Learning},
-  author={Zheng, Kaiwen and Huang, Jie and Yu, Hu and Zhao, Feng},
+  author={Zheng, Kaiwen and Huang, Jie and Zhou, Man and Zhao, Feng},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
   year={2023}
 }
